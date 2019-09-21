@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -17,8 +17,14 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
+
+        <h1>Hello Word</h1>
+       
       </header>
+      <body className="App-bodyr">
+          <h2>我现在只能在App.js页面加 H1出效果，有点难学哦</h2>
+      </body>
     </div>
   );
 }
