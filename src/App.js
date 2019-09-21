@@ -11,6 +11,7 @@ function App() {
       <br></br>
       代码又被谁修改了？
       <br></br>
+      心态炸裂，该死的react
         {/* <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
